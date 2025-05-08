@@ -12,3 +12,4 @@
 *.parquet
 *.jpg
 *.png
+*.h5
